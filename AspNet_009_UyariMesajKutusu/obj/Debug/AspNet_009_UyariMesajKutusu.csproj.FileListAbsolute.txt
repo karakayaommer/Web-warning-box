@@ -1,0 +1,11 @@
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\bin\AspNet_009_UyariMesajKutusu.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\bin\AspNet_009_UyariMesajKutusu.pdb
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\obj\Debug\AspNet_009_UyariMesajKutusu.dll
+c:\users\veyseluğur\documents\visual studio 2012\Projects\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\obj\Debug\AspNet_009_UyariMesajKutusu.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\bin\AspNet_009_UyariMesajKutusu.dll.config
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\bin\AspNet_009_UyariMesajKutusu.dll
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\bin\AspNet_009_UyariMesajKutusu.pdb
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\obj\Debug\AspNet_009_UyariMesajKutusu.csproj.AssemblyReference.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\obj\Debug\AspNet_009_UyariMesajKutusu.csproj.CoreCompileInputs.cache
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\obj\Debug\AspNet_009_UyariMesajKutusu.dll
+C:\Users\crona\OneDrive\Masaüstü\ÇALIŞMALAR\UYGULAMA2\AspNet_009_UyariMesajKutusu\AspNet_009_UyariMesajKutusu\obj\Debug\AspNet_009_UyariMesajKutusu.pdb
